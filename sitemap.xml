@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.petanikode.com/post/apa-itu-teks-editor-vim/</loc>
+    <loc>https://situskode.github.io/post/apa-itu-teks-editor-vim/</loc>
     <lastmod>2019-07-08T19:49:33+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.petanikode.com/categories/</loc>
+    <loc>https://situskode.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petanikode.com/</loc>
-    <lastmod>2019-07-08T19:49:33+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.petanikode.com/post/</loc>
+    <loc>https://situskode.github.io/post/</loc>
     <lastmod>2019-07-08T19:49:33+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petanikode.com/tags/</loc>
+    <loc>https://situskode.github.io/</loc>
+    <lastmod>2019-07-08T19:49:33+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://situskode.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

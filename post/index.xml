@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Petani Kode</title>
-    <link>https://www.petanikode.com/post/</link>
-    <description>Recent content in Posts on Petani Kode</description>
+    <title>Posts on Situskode</title>
+    <link>https://situskode.github.io/post/</link>
+    <description>Recent content in Posts on Situskode</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 08 Jul 2019 19:49:33 +0700</lastBuildDate>
     
-	<atom:link href="https://www.petanikode.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://situskode.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mengapa harus memilih Teks Editor Vim ?</title>
-      <link>https://www.petanikode.com/post/apa-itu-teks-editor-vim/</link>
+      <link>https://situskode.github.io/post/apa-itu-teks-editor-vim/</link>
       <pubDate>Mon, 08 Jul 2019 19:49:33 +0700</pubDate>
       
-      <guid>https://www.petanikode.com/post/apa-itu-teks-editor-vim/</guid>
+      <guid>https://situskode.github.io/post/apa-itu-teks-editor-vim/</guid>
       <description>Belajar Vim : Mengapa Harus Memilih Teks Editor Vim Dari beberapa Tek editor semisal, Sublime Teks, Visual Studio Code, Atom atau Notepad ++ ini merupakan beberapa nama teks editor yang familiar ditelinga para programmer dan banyak yang menggunakannya,
 tetpi ada jugo lho teks editor yang powerfull selain nama yang telah di sebutkn tadi,
 ya sesuai apa yang akan di bahas kali ini yaitu mengenai Teks Editor vim.
