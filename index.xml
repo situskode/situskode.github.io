@@ -5,6 +5,8 @@
     <link>https://situskode.github.io/</link>
     <description>Recent content on Situskode</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Andriansyah)</managingEditor>
+    <webMaster>youremail@domain.com (Andriansyah)</webMaster>
     <lastBuildDate>Mon, 08 Jul 2019 19:49:33 +0700</lastBuildDate>
     
 	<atom:link href="https://situskode.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +16,7 @@
       <title>Mengapa harus memilih Teks Editor Vim ?</title>
       <link>https://situskode.github.io/post/apa-itu-teks-editor-vim/</link>
       <pubDate>Mon, 08 Jul 2019 19:49:33 +0700</pubDate>
-      
+      <author>youremail@domain.com (Andriansyah)</author>
       <guid>https://situskode.github.io/post/apa-itu-teks-editor-vim/</guid>
       <description>Belajar Vim : Mengapa Harus Memilih Teks Editor Vim Dari beberapa Tek editor semisal, Sublime Teks, Visual Studio Code, Atom atau Notepad ++ ini merupakan beberapa nama teks editor yang familiar ditelinga para programmer dan banyak yang menggunakannya,
 tetpi ada jugo lho teks editor yang powerfull selain nama yang telah di sebutkn tadi,
